@@ -6,7 +6,7 @@ const config = {
   },
   users: {
     // You can add multiple users by doing username: 'password'.
-    interstellar: "annomas",
+    interstellar: "Cookielady1228",
     guest: "JYyPLf",
     guest: "I5eUyp",
     guest: "rYTFyJ",
