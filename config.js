@@ -8,7 +8,8 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     interstellar: "annomas",
     guest: "JYyPLf",
-    guest: "I5eUyp"
+    guest: "I5eUyp",
+    guest: "rYTFyJ",
     
   },
 };
