@@ -13,7 +13,7 @@ const config = {
     guest3: "XZpfQn",
     guest4: "hPr9rm",
     guest5: "LL7mRf",
-    guest:  "wH84Hx",
+    guest6:  "wH84Hx",
   },
 };
 
